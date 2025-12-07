@@ -1,0 +1,12 @@
+[submodule "MIdTerm-Exam"]
+	path = MIdTerm-Exam
+	url = https://github.com/szshaheer8076/MIdTerm-Exam.git
+[submodule "MAD-ASSIGNMENT-1"]
+	path = MAD-ASSIGNMENT-1
+	url = https://github.com/szshaheer8076/MAD-ASSIGNMENT-1.git
+[submodule "MAD-ASSIGNMENT-2"]
+	path = MAD-ASSIGNMENT-2
+	url = https://github.com/szshaheer8076/MAD-ASSIGNMENT-2.git
+[submodule "Quiz1-"]
+	path = Quiz1-
+	url = https://github.com/szshaheer8076/Quiz1-.git
